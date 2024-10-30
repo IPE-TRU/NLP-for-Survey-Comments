@@ -1,4 +1,4 @@
-# NLP-for-analyzing-survey-comments
+# NLP for Analyzing Survey Comments in Institutional Research
 This is a demo program for analyzing survey comments to identify and quantify key response themes. Prompts to get started with generating comments and code using AI is given below. Complete NLP analysis is available as code.
 
 1. This is an example prompt to generate 100 sample comments for a survey question.
